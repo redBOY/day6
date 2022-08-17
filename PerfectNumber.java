@@ -14,7 +14,7 @@ public class PerfectNumber {
                 sum = sum + itr;
             }
         }
-        if (sum==number)
+        if (sum==numbers)
         {
             System.out.println(number+" It is Perfect number");
         }
